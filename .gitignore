@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+run.log
+companies/*
+!companies/.gitkeep
+preview_reports/*
+!preview_reports/.gitkeep
+uploads/*
+!uploads/.gitkeep
+logs/*.log
+!logs/.gitkeep
+
+agent_exports/*
+!agent_exports/.gitkeep

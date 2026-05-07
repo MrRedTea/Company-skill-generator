@@ -1,0 +1,18 @@
+{
+  "model_type": "cloud",
+  "online": {
+    "api_key": "",
+    "api_base": "https://api.deepseek.com",
+    "model": "deepseek-chat"
+  },
+  "local": {
+    "model_type": "ollama",
+    "model_name": "DeepSeek LLM 7B Chat",
+    "host": "http://localhost:11434",
+    "temperature": 0.7
+  },
+  "ui": "pyside6-qt-v0.1.0",
+  "ui_version": "0.1.0",
+  "app_name": "算疏智合",
+  "version": "0.1.0"
+}
